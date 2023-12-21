@@ -1,7 +1,3 @@
-For help about each command, just run it without arguments
-
-*API examples*:
-
 *Translation*
 ```http
 POST https://adult.ai.total-tube.com/v1/translate
